@@ -25,5 +25,8 @@ curl -X POST \
   -d '{"message":"Show me all pending tasks"}'
 
 
+#To run python test
+python -m pytest -v
+
   
 
